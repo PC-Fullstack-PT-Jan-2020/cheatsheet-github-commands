@@ -1,6 +1,14 @@
 # cheatsheet github commands
 
-## start a repository
+## keywords to know
+
+- locally: existing on your computer
+- repository: a folder where git watches your file changes
+  - added files
+  - deleted files
+  - modified files
+
+## start a repository locally (having git watch your files and watch changes)
 
 `git init`
 
@@ -10,7 +18,9 @@
 or
 `git add <fileOrDirectoryName>`
 
-## commit a change to a repository
+`IE: git add foo.txt`
+
+## commit a change to a repository (giving a commit of file changes to a repository)
 
 `git commit -m "my message"`
 
