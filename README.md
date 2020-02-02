@@ -32,6 +32,10 @@ or
 
 `git push origin master`
 
+## clone (copying) an existing rep
+
+`git clone [url]`
+
 ## additional resources
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
