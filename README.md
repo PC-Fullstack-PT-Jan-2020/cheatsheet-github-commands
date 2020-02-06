@@ -39,3 +39,11 @@ or
 ## additional resources
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+
+## cloning a repo and pushing to a new one. (yours)
+
+- cloning a repo actually prevents you from being able to push initially
+- the code below can set your remote (the my-repo-git-url is the url on the clone or download button)
+- make sure to clone with SSH (otherwise you have to type your username and password)
+
+`git remote set-url origin <my-repo-git-url>`
